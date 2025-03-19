@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+env/
+
+# Cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FAISS index files
+faiss_index/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit-specific
+.streamlit/
